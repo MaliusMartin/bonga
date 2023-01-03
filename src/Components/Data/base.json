@@ -1,0 +1,114 @@
+{
+    "economy":[
+        {
+            "id":"1",
+            "path": "/business",
+            "name": "Business"
+        },
+        {
+            "id":"2",
+            "path": "/agriculture",
+            "name": "agriculture"
+        }
+
+    ],
+    "sports":[
+        {
+            "id":"1",
+            "path": "/football",
+            "name": "football"
+        },
+        {
+            "id":"2",
+            "path": "/netball",
+            "name": "netball"
+        },
+        {
+            "id":"3",
+            "path": "/basketball",
+            "name": "basketball"
+        },
+        {
+            "id":"4",
+            "path": "/vollyball",
+            "name": "vollyball"
+        },
+        {
+            "id":"5",
+            "path": "/athletics",
+            "name": "athletics"
+        },
+        {
+            "id":"6",
+            "path": "/boxing",
+            "name": "boxing"
+        }
+        
+    ],
+    "entertinement":[
+        {
+            "id":"1",
+            "path": "/music",
+            "name": "music"
+        },
+        {
+            "id":"2",
+            "path": "/film",
+            "name": "film"
+        }
+
+    ],
+    "technology":[
+        {
+            "id":"1",
+            "path": "/itc",
+            "name": "ICT"
+        },
+        {
+            "id":"2",
+            "path": "/manufacturing",
+            "name": "manufacturing"
+        }
+
+    ],
+    "eduction":[
+        {
+            "id":"1",
+            "path": "/primaryschool",
+            "name": "primary"
+        },
+        {
+            "id":"2",
+            "path": "/secondaryschool",
+            "name": "secondary"
+        },
+        {
+            "id":"3",
+            "path": "/highschool",
+            "name": "basketball"
+        }
+        ,
+        {
+            "id":"4",
+            "path": "/institution",
+            "name": "institution"
+        },
+        {
+            "id":"5",
+            "path": "/college",
+            "name": "college"
+        },
+        {
+            "id":"6",
+            "path": "/university",
+            "name": "university"
+        },
+        {
+            "id":"7",
+            "path": "/boxing",
+            "name": "boxing"
+        }
+        
+    ]
+
+}
